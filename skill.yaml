@@ -1,5 +1,5 @@
 name: safe_free_mint_gate
 title: Safe Free Mint Gate
-description: Apply the hard safe-and-free gate to a BSC free-mint candidate before showing a preview, and skip it when a material owner control, unverified source, proxy, or paid lane is live.
+description: Apply the hard safe-and-free gate to a free-mint candidate on any network before showing a preview, and skip it when a material owner control, unverified source, proxy, or paid lane is live.
 category: Finance
 include_in_prompt: false
